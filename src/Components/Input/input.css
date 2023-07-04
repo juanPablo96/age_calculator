@@ -1,0 +1,20 @@
+.input__container{
+   width: 200px;
+    display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+justify-content: center;
+
+
+}
+
+  .input__label{
+   
+    text-align: center;
+  }
+
+  .input__caracteristics{
+    width: 120;
+  }
+
+
